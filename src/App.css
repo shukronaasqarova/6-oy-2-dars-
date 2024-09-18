@@ -1,0 +1,8 @@
+.countainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  width: 1440px;
+  padding-left: 60px;
+  justify-content: space-between;
+  }
