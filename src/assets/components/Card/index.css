@@ -10,11 +10,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 100vh; */
     margin: 0;
     background-color: #f1f3f5;
   }
-/* Card container */
+
 .images {
     display: flex;
     flex-direction: column;
@@ -29,29 +28,28 @@ body {
     width: 300px;
     text-align: center;
   }
-  
-  /* Image style */
+
   .images img {
     width: 100%;
     height: auto;
     margin-bottom: 15px;
   }
   
-  /* Name section */
+
   .names h2 {
     font-size: 1.5rem;
     margin-bottom: 10px;
     color: #333;
   }
   
-  /* Email and phone styling */
+
   .email-phone h3 {
     font-size: 1rem;
     color: #555;
     margin-bottom: 5px;
   }
   
-  /* Address and car details */
+
   .address {
     font-weight: bold;
     color: #007bff;
